@@ -41,3 +41,6 @@ function restart(){
 }
 subBtn.addEventListener("click", check);
 resBtn.addEventListener("click", restart);
+
+
+
